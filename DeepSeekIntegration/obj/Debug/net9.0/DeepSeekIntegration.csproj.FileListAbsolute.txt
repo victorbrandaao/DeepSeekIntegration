@@ -1,0 +1,17 @@
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/bin/Debug/net9.0/DeepSeekIntegration
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/bin/Debug/net9.0/DeepSeekIntegration.deps.json
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/bin/Debug/net9.0/DeepSeekIntegration.runtimeconfig.json
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/bin/Debug/net9.0/DeepSeekIntegration.dll
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/bin/Debug/net9.0/DeepSeekIntegration.pdb
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/bin/Debug/net9.0/RestSharp.dll
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeekIntegration.csproj.AssemblyReference.cache
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeekIntegration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeekIntegration.AssemblyInfoInputs.cache
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeekIntegration.AssemblyInfo.cs
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeekIntegration.csproj.CoreCompileInputs.cache
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeek.C5A2179E.Up2Date
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeekIntegration.dll
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/refint/DeepSeekIntegration.dll
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeekIntegration.pdb
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/DeepSeekIntegration.genruntimeconfig.cache
+/Users/victorbrandao/RiderProjects/DeepSeekIntegration/DeepSeekIntegration/obj/Debug/net9.0/ref/DeepSeekIntegration.dll
